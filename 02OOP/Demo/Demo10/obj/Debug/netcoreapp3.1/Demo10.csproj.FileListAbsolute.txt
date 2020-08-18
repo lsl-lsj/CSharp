@@ -1,0 +1,13 @@
+C:\Users\laishilin\Desktop\C#\02OOP\Demo\Demo10\bin\Debug\netcoreapp3.1\Demo10.exe
+C:\Users\laishilin\Desktop\C#\02OOP\Demo\Demo10\bin\Debug\netcoreapp3.1\Demo10.deps.json
+C:\Users\laishilin\Desktop\C#\02OOP\Demo\Demo10\bin\Debug\netcoreapp3.1\Demo10.runtimeconfig.json
+C:\Users\laishilin\Desktop\C#\02OOP\Demo\Demo10\bin\Debug\netcoreapp3.1\Demo10.runtimeconfig.dev.json
+C:\Users\laishilin\Desktop\C#\02OOP\Demo\Demo10\bin\Debug\netcoreapp3.1\Demo10.dll
+C:\Users\laishilin\Desktop\C#\02OOP\Demo\Demo10\bin\Debug\netcoreapp3.1\Demo10.pdb
+C:\Users\laishilin\Desktop\C#\02OOP\Demo\Demo10\obj\Debug\netcoreapp3.1\Demo10.csprojAssemblyReference.cache
+C:\Users\laishilin\Desktop\C#\02OOP\Demo\Demo10\obj\Debug\netcoreapp3.1\Demo10.AssemblyInfoInputs.cache
+C:\Users\laishilin\Desktop\C#\02OOP\Demo\Demo10\obj\Debug\netcoreapp3.1\Demo10.AssemblyInfo.cs
+C:\Users\laishilin\Desktop\C#\02OOP\Demo\Demo10\obj\Debug\netcoreapp3.1\Demo10.csproj.CoreCompileInputs.cache
+C:\Users\laishilin\Desktop\C#\02OOP\Demo\Demo10\obj\Debug\netcoreapp3.1\Demo10.dll
+C:\Users\laishilin\Desktop\C#\02OOP\Demo\Demo10\obj\Debug\netcoreapp3.1\Demo10.pdb
+C:\Users\laishilin\Desktop\C#\02OOP\Demo\Demo10\obj\Debug\netcoreapp3.1\Demo10.genruntimeconfig.cache

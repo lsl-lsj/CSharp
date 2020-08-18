@@ -1,0 +1,15 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Demo01",
+    "\\Demo02",
+    "\\Demo07",
+    "\\Demo07\\bin",
+    "\\Demo07\\bin\\Debug",
+    "\\Demo07\\bin\\Debug\\netcoreapp3.1",
+    "\\Demo07\\bin\\Release",
+    "\\Demo07\\bin\\Release\\netcoreapp3.1"
+  ],
+  "SelectedNode": "\\Demo07\\Demo07.csproj",
+  "PreviewInSolutionExplorer": false
+}

@@ -1,0 +1,13 @@
+C:\Users\laishilin\Desktop\C#\02OOP\Demo\Demo\Demo03\bin\Debug\netcoreapp3.1\Demo03.exe
+C:\Users\laishilin\Desktop\C#\02OOP\Demo\Demo\Demo03\bin\Debug\netcoreapp3.1\Demo03.deps.json
+C:\Users\laishilin\Desktop\C#\02OOP\Demo\Demo\Demo03\bin\Debug\netcoreapp3.1\Demo03.runtimeconfig.json
+C:\Users\laishilin\Desktop\C#\02OOP\Demo\Demo\Demo03\bin\Debug\netcoreapp3.1\Demo03.runtimeconfig.dev.json
+C:\Users\laishilin\Desktop\C#\02OOP\Demo\Demo\Demo03\bin\Debug\netcoreapp3.1\Demo03.dll
+C:\Users\laishilin\Desktop\C#\02OOP\Demo\Demo\Demo03\bin\Debug\netcoreapp3.1\Demo03.pdb
+C:\Users\laishilin\Desktop\C#\02OOP\Demo\Demo\Demo03\obj\Debug\netcoreapp3.1\Demo03.csprojAssemblyReference.cache
+C:\Users\laishilin\Desktop\C#\02OOP\Demo\Demo\Demo03\obj\Debug\netcoreapp3.1\Demo03.AssemblyInfoInputs.cache
+C:\Users\laishilin\Desktop\C#\02OOP\Demo\Demo\Demo03\obj\Debug\netcoreapp3.1\Demo03.AssemblyInfo.cs
+C:\Users\laishilin\Desktop\C#\02OOP\Demo\Demo\Demo03\obj\Debug\netcoreapp3.1\Demo03.csproj.CoreCompileInputs.cache
+C:\Users\laishilin\Desktop\C#\02OOP\Demo\Demo\Demo03\obj\Debug\netcoreapp3.1\Demo03.dll
+C:\Users\laishilin\Desktop\C#\02OOP\Demo\Demo\Demo03\obj\Debug\netcoreapp3.1\Demo03.pdb
+C:\Users\laishilin\Desktop\C#\02OOP\Demo\Demo\Demo03\obj\Debug\netcoreapp3.1\Demo03.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+C:\Users\laishilin\Desktop\C#\02OOP\Demo\Demo08\bin\Debug\netcoreapp3.1\Demo08.exe
+C:\Users\laishilin\Desktop\C#\02OOP\Demo\Demo08\bin\Debug\netcoreapp3.1\Demo08.deps.json
+C:\Users\laishilin\Desktop\C#\02OOP\Demo\Demo08\bin\Debug\netcoreapp3.1\Demo08.runtimeconfig.json
+C:\Users\laishilin\Desktop\C#\02OOP\Demo\Demo08\bin\Debug\netcoreapp3.1\Demo08.runtimeconfig.dev.json
+C:\Users\laishilin\Desktop\C#\02OOP\Demo\Demo08\bin\Debug\netcoreapp3.1\Demo08.dll
+C:\Users\laishilin\Desktop\C#\02OOP\Demo\Demo08\bin\Debug\netcoreapp3.1\Demo08.pdb
+C:\Users\laishilin\Desktop\C#\02OOP\Demo\Demo08\obj\Debug\netcoreapp3.1\Demo08.AssemblyInfoInputs.cache
+C:\Users\laishilin\Desktop\C#\02OOP\Demo\Demo08\obj\Debug\netcoreapp3.1\Demo08.AssemblyInfo.cs
+C:\Users\laishilin\Desktop\C#\02OOP\Demo\Demo08\obj\Debug\netcoreapp3.1\Demo08.csproj.CoreCompileInputs.cache
+C:\Users\laishilin\Desktop\C#\02OOP\Demo\Demo08\obj\Debug\netcoreapp3.1\Demo08.dll
+C:\Users\laishilin\Desktop\C#\02OOP\Demo\Demo08\obj\Debug\netcoreapp3.1\Demo08.pdb
+C:\Users\laishilin\Desktop\C#\02OOP\Demo\Demo08\obj\Debug\netcoreapp3.1\Demo08.genruntimeconfig.cache
