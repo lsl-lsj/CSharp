@@ -1,0 +1,13 @@
+C:\Users\laishilin\Desktop\C#\07Array\Demo\Demo06\bin\Debug\netcoreapp3.1\Demo06.exe
+C:\Users\laishilin\Desktop\C#\07Array\Demo\Demo06\bin\Debug\netcoreapp3.1\Demo06.deps.json
+C:\Users\laishilin\Desktop\C#\07Array\Demo\Demo06\bin\Debug\netcoreapp3.1\Demo06.runtimeconfig.json
+C:\Users\laishilin\Desktop\C#\07Array\Demo\Demo06\bin\Debug\netcoreapp3.1\Demo06.runtimeconfig.dev.json
+C:\Users\laishilin\Desktop\C#\07Array\Demo\Demo06\bin\Debug\netcoreapp3.1\Demo06.dll
+C:\Users\laishilin\Desktop\C#\07Array\Demo\Demo06\bin\Debug\netcoreapp3.1\Demo06.pdb
+C:\Users\laishilin\Desktop\C#\07Array\Demo\Demo06\obj\Debug\netcoreapp3.1\Demo06.csprojAssemblyReference.cache
+C:\Users\laishilin\Desktop\C#\07Array\Demo\Demo06\obj\Debug\netcoreapp3.1\Demo06.AssemblyInfoInputs.cache
+C:\Users\laishilin\Desktop\C#\07Array\Demo\Demo06\obj\Debug\netcoreapp3.1\Demo06.AssemblyInfo.cs
+C:\Users\laishilin\Desktop\C#\07Array\Demo\Demo06\obj\Debug\netcoreapp3.1\Demo06.csproj.CoreCompileInputs.cache
+C:\Users\laishilin\Desktop\C#\07Array\Demo\Demo06\obj\Debug\netcoreapp3.1\Demo06.dll
+C:\Users\laishilin\Desktop\C#\07Array\Demo\Demo06\obj\Debug\netcoreapp3.1\Demo06.pdb
+C:\Users\laishilin\Desktop\C#\07Array\Demo\Demo06\obj\Debug\netcoreapp3.1\Demo06.genruntimeconfig.cache
